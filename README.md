@@ -15,7 +15,7 @@ Org A shard   Org B shard   Org C shard
                   |
      each org personalizes locally -> Personalized Models
 ```
-
+[flow](fed_llm_v2.png)
 ## Notebooks
 
 | Notebook | Description |
