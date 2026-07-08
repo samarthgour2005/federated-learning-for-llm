@@ -38,8 +38,8 @@ Org A shard   Org B shard   Org C shard
 - **FedProx** — adds a proximal term to keep local updates close to the global model
 - **SCAFFOLD** — uses control variates to correct client drift
 
-![Algorithm comparison](assets/algo_comparison.png)
-*Replace the path above with your actual results image.*
+![Algorithm comparison](comparsion_fl.png)
+
 
 ## Requirements
 
