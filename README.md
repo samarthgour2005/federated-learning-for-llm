@@ -15,7 +15,7 @@ Org A shard   Org B shard   Org C shard
                   |
      each org personalizes locally -> Personalized Models
 ```
-[flow](fed_llm_v2.png)
+<img src="fed_llm_v2.png" width="70%">
 ## Notebooks
 
 | Notebook | Description |
@@ -38,7 +38,7 @@ Org A shard   Org B shard   Org C shard
 - **FedProx** — adds a proximal term to keep local updates close to the global model
 - **SCAFFOLD** — uses control variates to correct client drift
 
-![Algorithm comparison](comparsion_fl.png)
+<img src="comparsion_fl.png" width="60%">
 
 
 ## Requirements
